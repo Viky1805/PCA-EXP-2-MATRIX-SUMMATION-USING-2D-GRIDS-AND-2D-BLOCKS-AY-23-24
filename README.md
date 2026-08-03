@@ -310,9 +310,13 @@ CHECK(cudaDeviceSynchronize());
 
 ## OUTPUT:
 
-### float data type :
+### Float data type :
 
 <img width="1840" height="330" alt="image" src="https://github.com/user-attachments/assets/8a4d3d0a-368a-4efc-a7b5-111b905f55db" />
+
+## Int data type :
+
+<img width="1758" height="287" alt="image" src="https://github.com/user-attachments/assets/7e5bde1b-7abd-463c-ba7f-df0164150493" />
 
 
 ## RESULT:
