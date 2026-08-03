@@ -316,7 +316,7 @@ CHECK(cudaDeviceSynchronize());
 
 ## Int data type :
 
-<img width="1758" height="287" alt="image" src="https://github.com/user-attachments/assets/7e5bde1b-7abd-463c-ba7f-df0164150493" />
+<img width="1768" height="188" alt="image" src="https://github.com/user-attachments/assets/e930af65-d368-40c2-9595-434aa729853d" />
 
 
 ## RESULT:
