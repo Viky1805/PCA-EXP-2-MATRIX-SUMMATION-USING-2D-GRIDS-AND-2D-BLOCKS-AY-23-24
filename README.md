@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:</h3>
+<h3>AIM: To implement matrix summation using 2D grids and 2D blocks in CUDA, adapt the program for integer matrix addition, and determine the best execution configuration for efficient GPU performance.</h3>
 <h3>NAME: Vignesh S</h3>
 <h3>REG NO:  212224110061 </h3>
 <h3>EX. NO : 2</h3>
